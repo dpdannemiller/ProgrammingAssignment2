@@ -6,7 +6,7 @@
 
 ## History:
 ## Written by David Dannemiller, 8/22/2014
-## Programming Assignment # 2
+## Programming Assignment #2
 ## R Programming Language, Coursera
 
 ## This function creates a special "matrix" object that can cache its inverse.
